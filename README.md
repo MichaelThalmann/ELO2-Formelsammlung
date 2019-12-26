@@ -1,5 +1,8 @@
 # ELO2-Formelsammlung
 
+Vorhanden ist alles bis Aktive Filter. Vielleicht gibt es aber noch Ergänzungen zu machen.
+Zusätzlich müssen noch ADC-ACD, Rauschen, EMV und Oszillator gemacht werden.
+
 - MikTeX runterladen und installieren https://miktex.org/download
 - Texmaker runterladen und installieren https://www.xm1math.net/texmaker/
 - Dateien von GitHub herunteladen
